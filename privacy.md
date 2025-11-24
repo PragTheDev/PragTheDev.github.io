@@ -58,4 +58,4 @@ The updated version will always be available on this page.
 ## 7. Contact Us
 If you have questions about this Privacy Policy, contact us at:
 
-**Email:** support@swipr.app  
+**Email:** swipr.help@gmail.com  
