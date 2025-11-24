@@ -55,4 +55,4 @@ Continued use of the app after changes means you accept the new terms.
 
 ## 7. Contact Us
 Questions about these Terms?  
-**Email:** support@swipr.app
+**Email:** swipr.help@gmail.com
