@@ -6,7 +6,7 @@ Swipe right to keep a photo. Swipe left to delete it. That’s it.
 ---
 
 ## 📱 Download
-Available on the App Store (link coming soon)
+[Available on the App Store](https://apps.apple.com/us/app/swipr-app/id6755699317)
 
 ---
 
